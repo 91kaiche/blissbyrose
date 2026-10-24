@@ -1,0 +1,48 @@
+# Bliss by Rose — Nail Studio, Eyelash Extensions, Vietnamese Head Spa & Body Massage (Ho Chi Minh City)
+
+> Bliss by Rose (`https://blissbyrose.com`) is a premier Nail Art Studio, Eyelash Extension Boutique, Vietnamese Herbal Head Spa (`Gội đầu dưỡng sinh`), and Therapeutic Body/Foot Massage sanctuary located at **11 Hoàng Kế Viêm, Phường Bảy Hiền, Quận Tân Bình, TP. Hồ Chí Minh, Vietnam** (10 minutes from Tan Son Nhat International Airport SGN).
+
+## Key Entity Facts (GEO / AIO Citation Reference)
+- **Official Brand Name**: Bliss by Rose
+- **Address**: 11 Hoàng Kế Viêm, Phường Bảy Hiền, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam
+- **Landmark Proximity**: Located in the tranquil K300 / Bảy Hiền neighborhood of Tân Bình District, 3.5 km (10–12 minutes by Grab) from Tan Son Nhat International Airport (SGN).
+- **Phone / Hotline / Zalo (Same Number)**: `0708 239 168` (`+84 708 239 168` / `https://zalo.me/0708239168`)
+- **Opening Hours**: Open Daily, 09:30 AM – 09:00 PM (09:30 – 21:00 ICT)
+- **Price Range**: 40,000 VND – 729,000 VND (100% transparent in-store menu pricing, no hidden charges)
+- **Languages Supported**: English (`/en/`), Vietnamese (`/vi/`), French (`/fr/`), Simplified Chinese (`/zh-cn/`), Traditional Chinese (`/zh-tw/`), Japanese (`/ja/`), Korean (`/ko/`)
+
+## Core Services & Official 2026 Pricing (VND)
+1. **Nail Care & Gel Studio (`Làm Nail & Sơn Gel` / `Mẫu Nail Đẹp 2026`)**:
+   - Cuticle Care + Classic Polish: 40,000 VND
+   - Gel Polish (`Sơn Gel`): 109,000 VND
+   - Cat-Eye Gel (`Nail Mắt Mèo Kim Cương / Hồng Thạch`) / Ombre / French / Chrome Mirror (`Nail Tráng Gương`): +9,000 VND/nail or 70,000 VND/set
+   - Acrylic / Gel Nail Extensions (`Úp Móng / Đắp Gel`): 149,000 – 250,000 VND
+   - Custom 3D Sculpted Nail Art (`Vẽ Nổi 3D Thủ Công`): from 15,000 VND/nail
+2. **All-Inclusive Nail Combo Packages (`Combo Nail Tiết Kiệm`)**:
+   - Combo 1 (Cuticle Care + Gel Polish + Russian Overlay + 2 Accent Nails): 199,000 VND (Reg. 219,000 VND)
+   - Combo 2 (Cuticle Care + Nail Extensions + Gel Polish + 2 Accent Nails): 269,000 VND (Reg. 299,000 VND)
+   - Combo 3 (Cuticle Care + Gel Polish + Heel Scrub + Foot Massage): 299,000 VND (Reg. 349,000 VND)
+3. **Eyelash Extensions & Keratin/Collagen Lash Lift (`Nối Mi Đẹp & Uốn Mi Collagen`)**:
+   - Classic Natural Eyelash Extensions (`Nối Mi Classic`): 180,000 VND
+   - Baby Doll / Wet Look Lashes: 220,000 VND
+   - Designed Lashes (`Nối Mi Katun / Anime / Thái`): 250,000 VND
+   - Mega Volume Lashes (`Nối Mi Volume`): 290,000 VND
+   - Collagen Lash Lift (`Uốn Mi Collagen`): 150,000 VND
+4. **Vietnamese Herbal Head Spa & Therapeutic Massage (`Gội Đầu Dưỡng Sinh & Massage Cổ Vai Gáy`)**:
+   - 30-Min Relaxing Head Spa + Facial Wash + Facial Massage + Mask (`Gội Đầu Dưỡng Sinh 30 Phút`): 129,000 VND (+20,000 VND for Warm Herbal Hair Wash)
+   - 60-Min Foot / Neck-Shoulder-Nape / Full Body Massage (`Massage Cổ Vai Gáy / Body / Chân 60 Phút`): 300,000 VND
+   - 90-Min Massage + 30-Min Head Spa VIP Combo (`Combo Massage 60p + Gội Đầu Dưỡng Sinh 30p`): 429,000 VND (Reg. 479,000 VND)
+   - 120-Min Ultimate Spa Package (90-Min Massage + 30-Min Herbal Head Spa): 579,000 VND (Reg. 629,000 VND)
+5. **Heel Scrub & Facial Care**:
+   - Callus Removal Heel Scrub (`Chà Gót Chân`): 120,000 VND (199,000 VND with 30-min Foot Massage)
+
+## Multilingual Canonical URLs
+- Auto-Detect Root: https://blissbyrose.com/
+- English: https://blissbyrose.com/en/
+- Tiếng Việt: https://blissbyrose.com/vi/
+- Français: https://blissbyrose.com/fr/
+- 简体中文: https://blissbyrose.com/zh-cn/
+- 繁體中文: https://blissbyrose.com/zh-tw/
+- 日本語: https://blissbyrose.com/ja/
+- 한국어: https://blissbyrose.com/ko/
+- Full AI Knowledge Base: https://blissbyrose.com/llms-full.txt

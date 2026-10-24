@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blissbyrose.com/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://blissbyrose.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://blissbyrose.com/en/" />
+    <xhtml:link rel="alternate" hreflang="vi-VN" href="https://blissbyrose.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://blissbyrose.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="ru-RU" href="https://blissbyrose.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://blissbyrose.com/zh-cn/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://blissbyrose.com/zh-tw/" />
+    <xhtml:link rel="alternate" hreflang="ja-JP" href="https://blissbyrose.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko-KR" href="https://blissbyrose.com/ko/" />
+  </url>
+  <url>
+    <loc>https://blissbyrose.com/en/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blissbyrose.com/vi/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blissbyrose.com/fr/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blissbyrose.com/ru/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blissbyrose.com/zh-cn/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blissbyrose.com/zh-tw/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blissbyrose.com/ja/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blissbyrose.com/ko/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>
