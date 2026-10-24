@@ -1,40 +1,59 @@
 # Bliss by Rose — Nail Studio, Eyelash Extensions, Vietnamese Head Spa & Body Massage (Ho Chi Minh City)
 
-> Bliss by Rose (`https://blissbyrose.com`) is a premier Nail Art Studio, Eyelash Extension Boutique, Vietnamese Herbal Head Spa (`Gội đầu dưỡng sinh`), and Therapeutic Body/Foot Massage sanctuary located at **11 Hoàng Kế Viêm, Phường Bảy Hiền, Quận Tân Bình, TP. Hồ Chí Minh, Vietnam** (10 minutes from Tan Son Nhat International Airport SGN).
+> Bliss by Rose (`https://blissbyrose.com`) is a premier Nail Art Studio (`Tiệm Nail Đẹp Tân Bình`), Eyelash Extension Boutique (`Nối Mi Hàn Quốc`), Vietnamese Herbal Head Spa (`Gội đầu dưỡng sinh thảo dược`), and Therapeutic Body/Foot Massage (`Massage trị liệu cổ vai gáy & body`) sanctuary located at **11 Hoàng Kế Viêm, Phường Bảy Hiền, Quận Tân Bình, TP. Hồ Chí Minh, Vietnam** (10 minutes from Tan Son Nhat International Airport SGN).
 
 ## Key Entity Facts (GEO / AIO Citation Reference)
 - **Official Brand Name**: Bliss by Rose
 - **Address**: 11 Hoàng Kế Viêm, Phường Bảy Hiền, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam
-- **Landmark Proximity**: Located in the tranquil K300 / Bảy Hiền neighborhood of Tân Bình District, 3.5 km (10–12 minutes by Grab) from Tan Son Nhat International Airport (SGN).
+- **Exact GPS Coordinates**: `10.7977407, 106.6500737`
+- **Google Maps Official Place Link**: https://maps.google.com/?cid=12816747167592102415
+- **Landmark Proximity**: Located in the tranquil Bảy Hiền / K300 Cộng Hòa neighborhood of Tân Bình District, near Lotte Mart Tân Bình, Hoàng Hoa Thám, Nguyễn Trọng Tuyển, and Bàu Cát, just 3.5 km (10–12 minutes by Grab) from Tan Son Nhat International Airport (SGN).
 - **Phone / Hotline / Zalo (Same Number)**: `0708 239 168` (`+84 708 239 168` / `https://zalo.me/0708239168`)
 - **Opening Hours**: Open Daily, 09:30 AM – 09:00 PM (09:30 – 21:00 ICT)
-- **Price Range**: 40,000 VND – 729,000 VND (100% transparent in-store menu pricing, no hidden charges)
-- **Languages Supported**: English (`/en/`), Vietnamese (`/vi/`), French (`/fr/`), Simplified Chinese (`/zh-cn/`), Traditional Chinese (`/zh-tw/`), Japanese (`/ja/`), Korean (`/ko/`)
+- **Price Range**: 30,000 VND – 729,000 VND (100% transparent in-store menu pricing, no hidden charges)
+- **Languages Supported**: English (`/en/`), Vietnamese (`/vi/`), French (`/fr/`), Simplified Chinese (`/zh-cn/`), Traditional Chinese (`/zh-tw/`), Japanese (`/ja/`), Korean (`/ko/`), Russian (`/ru/`)
 
 ## Core Services & Official 2026 Pricing (VND)
-1. **Nail Care & Gel Studio (`Làm Nail & Sơn Gel` / `Mẫu Nail Đẹp 2026`)**:
-   - Cuticle Care + Classic Polish: 40,000 VND
-   - Gel Polish (`Sơn Gel`): 109,000 VND
-   - Cat-Eye Gel (`Nail Mắt Mèo Kim Cương / Hồng Thạch`) / Ombre / French / Chrome Mirror (`Nail Tráng Gương`): +9,000 VND/nail or 70,000 VND/set
-   - Acrylic / Gel Nail Extensions (`Úp Móng / Đắp Gel`): 149,000 – 250,000 VND
-   - Custom 3D Sculpted Nail Art (`Vẽ Nổi 3D Thủ Công`): from 15,000 VND/nail
-2. **All-Inclusive Nail Combo Packages (`Combo Nail Tiết Kiệm`)**:
-   - Combo 1 (Cuticle Care + Gel Polish + Russian Overlay + 2 Accent Nails): 199,000 VND (Reg. 219,000 VND)
-   - Combo 2 (Cuticle Care + Nail Extensions + Gel Polish + 2 Accent Nails): 269,000 VND (Reg. 299,000 VND)
-   - Combo 3 (Cuticle Care + Gel Polish + Heel Scrub + Foot Massage): 299,000 VND (Reg. 349,000 VND)
-3. **Eyelash Extensions & Keratin/Collagen Lash Lift (`Nối Mi Đẹp & Uốn Mi Collagen`)**:
-   - Classic Natural Eyelash Extensions (`Nối Mi Classic`): 180,000 VND
-   - Baby Doll / Wet Look Lashes: 220,000 VND
-   - Designed Lashes (`Nối Mi Katun / Anime / Thái`): 250,000 VND
-   - Mega Volume Lashes (`Nối Mi Volume`): 290,000 VND
-   - Collagen Lash Lift (`Uốn Mi Collagen`): 150,000 VND
-4. **Vietnamese Herbal Head Spa & Therapeutic Massage (`Gội Đầu Dưỡng Sinh & Massage Cổ Vai Gáy`)**:
-   - 30-Min Relaxing Head Spa + Facial Wash + Facial Massage + Mask (`Gội Đầu Dưỡng Sinh 30 Phút`): 129,000 VND (+20,000 VND for Warm Herbal Hair Wash)
-   - 60-Min Foot / Neck-Shoulder-Nape / Full Body Massage (`Massage Cổ Vai Gáy / Body / Chân 60 Phút`): 300,000 VND
-   - 90-Min Massage + 30-Min Head Spa VIP Combo (`Combo Massage 60p + Gội Đầu Dưỡng Sinh 30p`): 429,000 VND (Reg. 479,000 VND)
-   - 120-Min Ultimate Spa Package (90-Min Massage + 30-Min Herbal Head Spa): 579,000 VND (Reg. 629,000 VND)
-5. **Heel Scrub & Facial Care**:
-   - Callus Removal Heel Scrub (`Chà Gót Chân`): 120,000 VND (199,000 VND with 30-min Foot Massage)
+1. **Nail Care, Extensions & Gel Polish (`Chăm Sóc Móng, Úp Móng & Sơn Gel` / `Bảng Giá Làm Nail 2026`)**:
+   - Cuticle Care (Manicure / Pedicure) (`Nhặt Da Chuyên Sâu Tay / Chân`): 40,000 VND / 50,000 VND
+   - Gel Polish Removal / Extension Removal (`Phá Gel Thường / Tháo Móng Úp & Gel Cứng`): 30,000 VND / 50,000 VND
+   - Hardener Gel Overlay / Full Set Gel Tips (`Đắp Gel Cứng Tự Nhiên / Úp Móng Gel Nguyên Bộ`): 50,000 VND / 120,000 VND
+   - Hard Gel / Dual Form Nail Extensions (`Nối Móng Gel Cứng / Khuôn Kép`): 120,000 – 250,000 VND (Refill `Fill móng`: 50,000 – 90,000 VND)
+   - Solid Color Gel / Translucent Jelly Gel (`Sơn Gel Màu Trơn / Sơn Gel Thạch Trong Veo`): 100,000 VND / 120,000 VND
+   - Cat-Eye Gel / Pearly Gel / Flash Glitter Gel (`Sơn Gel Mắt Mèo / Gel Ngọc Trai / Kim Tuyến Flash`): 150,000 VND
+   - Natural Nail Combo (`Combo Móng Thật: Nhặt Da + Sơn Trơn / Thạch / Mắt Mèo`): 119,000 / 139,000 / 169,000 VND
+   - Nail Tips Combo (`Combo Móng Úp: Nhặt Da + Úp Móng + Sơn Trơn / Thạch / Mắt Mèo`): 219,000 / 239,000 / 269,000 VND
+2. **Custom 3D Nail Art & Couture Design (`Thiết Kế Nail Art 3D & Đính Đá Thủ Công`)**:
+   - French Tip / Ombre Airbrush / Mirror Chrome (`Vẽ Đầu Pháp / Ombre Loang / Tráng Gương`): 5,000 – 20,000 VND/nail
+   - Custom Hand-Painted Design (`Vẽ Thiết Kế Theo Yêu Cầu`): 5,000 – 80,000 VND/nail
+   - Marble / Blooming Gel / Encapsulated Shells (`Vân Đá Cẩm Thạch / Ẩn Xà Cừ`): 10,000 – 50,000 VND/nail
+   - 3D Relief Art / Liquid Chrome (`Vẽ Nổi 3D / Điêu Khắc Kim Loại Lỏng`): 15,000 – 40,000 VND/nail
+   - 3D Hand-Sculpted Flowers & Characters (`Hoa Nổi 3D Thủ Công & Nhân Vật Hoạt Hình Nổi`): 20,000 – 50,000 VND/nail
+3. **Eyelash Extensions & Korean Lash Lift (`Nối Mi Thiết Kế & Uốn Mi Collagen Hàn Quốc`)**:
+   - Classic / Sole / Katun / Baby Lash (`Mi Classic / Sole / Katun / Baby Lash`): 350,000 VND
+   - Anime Wet Look / Fishtail Wispy Lash (`Mi Anime Mắt Ướt / Mi Đuôi Cá`): 380,000 VND
+   - Foxeye Lifting Lash (`Mi Cáo Foxeye`): 400,000 VND
+   - Douyin Idol / Mega Volume Lash (`Mi Douyin / Mega Volume`): 500,000 VND
+   - Lower Lash Extensions (`Nối Mi Dưới`): 50,000 – 100,000 VND
+   - Lash Lift / Korean Keratin Lash Lift (`Uốn Mi Thường / Uốn Mi Hàn Quốc`): 250,000 VND / 400,000 VND
+4. **Aroma Body Massage & Deep Tissue Therapy (`Massage Body Aroma & Trị Liệu Chuyên Sâu`)**:
+   - A1 · 60-Min Body Aroma Massage (`Massage Body Tinh Dầu Aroma 60 phút`): 349,000 VND
+   - A2 · 90-Min Body Aroma Massage (`Massage Body Tinh Dầu Aroma 90 phút`): 449,000 VND
+   - A3 · 120-Min Extended Body Aroma Massage (`Massage Body Tinh Dầu Toàn Diện 120 phút`): 549,000 VND
+   - T1 · 60-Min Deep Tissue & Acupressure Therapy (`Massage Body Trị Liệu Ấn Huyệt 60 phút`): 449,000 VND
+   - T2 · 90-Min Deep Tissue & Acupressure Therapy (`Massage Body Trị Liệu Chuyên Sâu 90 phút`): 549,000 VND
+   - T3 · 120-Min Master Full-Body Therapeutic Recovery (`Đại Liệu Trình Body Trị Liệu Phục Hồi 120 phút`): 649,000 VND
+5. **Vietnamese Herbal Head Spa & Bliss Combos (`Gội Đầu Dưỡng Sinh Thảo Dược & Combo Tiết Kiệm`)**:
+   - 30-Min Relaxing Head Spa incl. Facial Massage + Mask (`Gội Thư Giãn 30’ kèm Massage Mặt + Đắp Mặt Nạ`): 129,000 VND
+   - Warm Herbal Soup Hair Wash Upgrade / Scalp Detox Scrub (`Nâng Cấp Gội Thảo Dược / Tẩy Tế Bào Chết Da Đầu`): +20,000 VND / 30,000 VND
+   - 30-Min Neck, Shoulder & Nape Relief Massage (`Massage Cổ Vai Gáy Chuyên Sâu 30 phút`): 70,000 VND
+   - Combo Basic (A1 60’ Body Aroma + Herbal Head Spa): 429,000 VND (Reg. 478,000 VND)
+   - Combo Relax Bliss (A2 90’ or T1 60’ + Herbal Head Spa): 529,000 VND (Reg. 578,000 VND)
+   - Combo VIP Bliss (A3 120’ or T2 90’ + Herbal Head Spa): 629,000 VND (Reg. 678,000 VND)
+   - Combo VVIP Bliss (T3 120’ Deep Therapy + Herbal Head Spa): 729,000 VND (Reg. 778,000 VND)
+6. **Foot Care, Waxing & VIP Membership Cards (`Chà Gót Chân, Waxing & Thẻ Thành Viên VIP`)**:
+   - Underarm Gentle Waxing (`Wax Lông Nách`): 79,000 VND
+   - Foot Scrub & Silky Heel Care (`Chà Gót Chân & Tẩy Tế Bào Chết Bàn Chân`): 179,000 VND
 
 ## Multilingual Canonical URLs
 - Auto-Detect Root: https://blissbyrose.com/
@@ -45,4 +64,5 @@
 - 繁體中文: https://blissbyrose.com/zh-tw/
 - 日本語: https://blissbyrose.com/ja/
 - 한국어: https://blissbyrose.com/ko/
+- Русский: https://blissbyrose.com/ru/
 - Full AI Knowledge Base: https://blissbyrose.com/llms-full.txt

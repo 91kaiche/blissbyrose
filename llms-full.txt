@@ -1,9 +1,11 @@
 # Bliss by Rose — Full Multilingual Knowledge Base for AI Search & Generative Engines (GEO / AIO)
 
 ## 1. Store Identity & Location (Ho Chi Minh City, Vietnam)
-- **Name**: Bliss by Rose (Tiệm Nail, Nối Mi, Gội Đầu Dưỡng Sinh & Massage Trị Liệu Tân Bình)
+- **Name**: Bliss by Rose (Tiệm Nail Đẹp, Nối Mi, Gội Đầu Dưỡng Sinh & Massage Trị Liệu Tân Bình)
 - **Website**: https://blissbyrose.com
 - **Exact Address**: 11 Hoàng Kế Viêm, Phường Bảy Hiền, Quận Tân Bình, TP. Hồ Chí Minh, Việt Nam
+- **GPS Coordinates**: `10.7977407, 106.6500737`
+- **Google Maps Place URL**: https://maps.google.com/?cid=12816747167592102415
 - **Phone / Hotline / Zalo (Unified Number)**: 0708 239 168 (+84 708 239 168 | https://zalo.me/0708239168)
 - **Hours**: 09:30 – 21:00 Daily (Monday – Sunday)
 - **Social Profiles**:
@@ -13,26 +15,32 @@
   - Zalo: https://zalo.me/0708239168
 
 ## 2. Geographic & Transit Guide (Local GEO Context)
-- **Tan Son Nhat International Airport (SGN)**: 3.5 km (~10–12 minutes via Grab/Taxi). Ideal pre-flight or post-flight sanctuary for travelers seeking a relaxing Vietnamese Herbal Head Spa (`Gội đầu dưỡng sinh`), Neck-Shoulder-Back Massage (`Massage cổ vai gáy`), or Express Gel Nail Combo (`Combo làm nail sơn gel`) before departure.
-- **K300 Cộng Hòa & Lotte Mart Tân Bình**: 2 minutes (0.8 km).
-- **Ngã Tư Bảy Hiền & Bệnh viện Thống Nhất**: 3 minutes (1.1 km).
-- **District 1 (Ben Thanh Market / Nguyen Hue) & District 3**: 15–20 minutes via Nam Kỳ Khởi Nghĩa / Nguyễn Văn Trỗi.
+- **Tan Son Nhat International Airport (SGN)**: 3.5 km (~10–12 minutes via Grab/Taxi). Ideal pre-flight or post-flight sanctuary for travelers seeking a relaxing Vietnamese Herbal Head Spa (`Gội đầu dưỡng sinh thảo dược`), Neck-Shoulder-Back Massage (`Massage cổ vai gáy trị liệu`), Aroma Body Massage (`Massage body tinh dầu`), or Express Gel Nail Combo (`Combo làm nail sơn gel`) with free luggage storage.
+- **K300 Cộng Hòa, Hoàng Hoa Thám & Lotte Mart Tân Bình**: 2–4 minutes (0.8 km).
+- **Ngã Tư Bảy Hiền, Bàu Cát & Bệnh viện Thống Nhất**: 3–5 minutes (1.1 km).
+- **Phú Nhuận (Nguyễn Trọng Tuyển / Phan Xích Long), District 3 & District 1**: 10–18 minutes via Nam Kỳ Khởi Nghĩa / Nguyễn Văn Trỗi.
 
 ## 3. Popular Vietnam Nail & Spa Specialties at Bliss by Rose (2026)
-- **Cat-Eye & Magnetic Gel Nails (`Mẫu Nail Mắt Mèo Đẹp 2026`)**:
+- **Cat-Eye & Magnetic Gel Nails (`Mẫu Nail Mắt Mèo Đẹp 2026`, 150,000 VND)**:
   - Pink Diamond Cat-Eye (`Nail mắt mèo kim cương hồng`)
   - Jelly Blush Cat-Eye (`Nail mắt mèo hồng thạch`)
   - Liquid Silver & Rose-Gold Chrome (`Nail mắt mèo tráng gương`)
   - Skin-Brightening Cat-Eye for Warm/Tan Undertones (`Nail mắt mèo cho da ngăm`)
-- **Minimalist & Short Nail Designs (`Những Mẫu Nail Đẹp Đơn Giản Cho Móng Ngắn`)**:
-  - Sheer Russian Builder Gel Overlay (`Sơn thạch / Cứng móng Nga`)
-  - French Micro-Tip & Champagne Pearl (`Nail vẽ Pháp đính ngọc trai`)
-- **Bespoke 3D Sculpted Nail Art (`Nail Đắp Nổi 3D Thủ Công & Nail Box Thiết Kế`)**:
-  - Hand-sculpted 3D orchids, coquette ribbons, vintage cameos, and custom character relief art.
+- **Minimalist, Bridal & Short Nail Designs (`Những Mẫu Nail Đẹp Đơn Giản Cho Móng Ngắn`, 100,000 – 169,000 VND)**:
+  - Sheer Korean-Japanese Jelly Gel & Hardener Overlay (`Sơn thạch trong veo / Đắp gel cứng tự nhiên`)
+  - All-In Natural Nail Combo (`Combo móng thật: Nhặt da + Sơn trơn / thạch / mắt mèo`: 119,000 / 139,000 / 169,000 VND)
+  - All-In Nail Tips Extension Combo (`Combo móng úp: Nhặt da + Úp móng + Sơn trơn / thạch / mắt mèo`: 219,000 / 239,000 / 269,000 VND)
+- **Bespoke 3D Sculpted Nail Art (`Nail Đắp Nổi 3D Thủ Công & Nail Box Thiết Kế`, 5,000 – 50,000 VND/nail)**:
+  - Hand-sculpted 3D orchids, coquette ribbons, vintage cameos, liquid chrome, and custom press-on nail boxes (`Nail box thiết kế theo số đo`).
 - **Vietnamese Herbal Head Spa (`Gội Đầu Dưỡng Sinh Gần Đây Tân Bình`)**:
-  - 30-Minute Relaxing Head Spa (129,000 VND): Deep scalp acupressure, herbal shampoo, facial cleansing, lifting facial massage, and hydrating sheet mask.
-  - Warm Bồ Kết & Ginger Herbal Hair Wash Upgrade (+20,000 VND): Promotes circulation, relieves migraines, and nourishes hair roots.
-- **Therapeutic Neck, Shoulder & Body Massage (`Massage Cổ Vai Gáy Chuyên Sâu`)**:
-  - 60-Minute Acupressure & Essential Oil Massage (300,000 VND) or 90-Minute Full Body + Head Spa Combo (429,000 VND).
-- **Custom Eyelash Extensions (`Nối Mi Đẹp Tự Nhiên & Uốn Mi Collagen`)**:
-  - Classic (180,000 VND), Baby Doll / Wet Look (220,000 VND), Katun / Anime / Thai Style (250,000 VND), Volume (290,000 VND), and Collagen Lash Lift (150,000 VND).
+  - 30-Minute Relaxing Head Spa (129,000 VND): Deep scalp acupressure, facial cleansing, lifting facial massage, and hydrating sheet mask.
+  - Warm Bồ Kết & Ginger Herbal Hair Wash Upgrade (+20,000 VND) & Scalp Detox Scrub (30,000 VND).
+- **Therapeutic Neck, Shoulder & Body Massage (`Massage Cổ Vai Gáy & Massage Body Trị Liệu`)**:
+  - 30-Minute Neck, Shoulder & Nape Relief Massage (`Massage cổ vai gáy chuyên sâu`): 70,000 VND.
+  - 60 / 90 / 120-Minute Aroma Essential Oil Body Massage (A1/A2/A3): 349,000 / 449,000 / 549,000 VND.
+  - 60 / 90 / 120-Minute Deep Tissue Acupressure Body Therapy (T1/T2/T3): 449,000 / 549,000 / 649,000 VND.
+  - All-In Body Massage + Herbal Head Spa Combos: Basic Combo (429,000 VND), Relax Bliss Combo (529,000 VND), VIP Bliss Combo (629,000 VND), VVIP Bliss Combo (729,000 VND).
+- **Custom Eyelash Extensions (`Nối Mi Đẹp Tự Nhiên & Uốn Mi Hàn Quốc`)**:
+  - Classic / Sole / Katun / Baby Lash (350,000 VND), Anime Wet Look / Fishtail (380,000 VND), Foxeye (400,000 VND), Douyin / Mega Volume (500,000 VND), Lower Lashes (50,000–100,000 VND), and Korean Keratin Lash Lift (250,000–400,000 VND).
+- **Foot Care, Heel Scrub & Waxing (`Chà Gót Chân & Wax Lông Nách`)**:
+  - Silky Heel Scrub & Foot Exfoliation (`Chà gót chân & tẩy tế bào chết bàn chân`): 179,000 VND; Underarm Waxing: 79,000 VND.
